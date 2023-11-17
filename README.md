@@ -1,4 +1,4 @@
-# LLCEM
+# HeLaLceM
 
 ## Türkçe 
 Bu repository açık kaynaklardan veri toplayıp Türkçe ve Almanca LLM eğitmek açılmıştır. Boş zamanlarımda repository'i güncelleyerek Türkçe, 
